@@ -1,0 +1,13 @@
+[01-Feb-2021 02:14:44 UTC] PHP Notice:  Undefined index: ipp in /home/gct48h6h1p7k/public_html/include/paginator.class.php on line 31
+[03-Feb-2021 00:52:37 UTC] PHP Notice:  Undefined index: ipp in /home/gct48h6h1p7k/public_html/include/paginator.class.php on line 31
+[04-Feb-2021 04:27:08 UTC] PHP Notice:  Undefined index: ipp in /home/gct48h6h1p7k/public_html/include/paginator.class.php on line 31
+[18-Feb-2021 05:03:36 UTC] PHP Notice:  Undefined index: ipp in /home/gct48h6h1p7k/public_html/include/paginator.class.php on line 31
+[22-Feb-2021 01:41:21 UTC] PHP Notice:  Undefined index: ipp in /home/gct48h6h1p7k/public_html/include/paginator.class.php on line 31
+[23-Feb-2021 00:30:00 UTC] PHP Notice:  Undefined index: ipp in /home/gct48h6h1p7k/public_html/include/paginator.class.php on line 31
+[23-Feb-2021 00:30:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/gct48h6h1p7k/public_html/property/add-property.php:160
+Stack trace:
+#0 /home/gct48h6h1p7k/public_html/property/add-property.php(160): PDO->__construct('mysql:host=loca...', 'root', 'root')
+#1 {main}
+  thrown in /home/gct48h6h1p7k/public_html/property/add-property.php on line 160
+[02-Mar-2021 23:51:55 UTC] PHP Notice:  Undefined index: ipp in /home/gct48h6h1p7k/public_html/include/paginator.class.php on line 31
+[09-Mar-2021 03:41:39 UTC] PHP Notice:  Undefined index: ipp in /home/gct48h6h1p7k/public_html/include/paginator.class.php on line 31

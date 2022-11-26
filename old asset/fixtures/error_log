@@ -1,0 +1,12 @@
+[01-Feb-2021 02:14:51 UTC] PHP Notice:  Undefined index: ipp in /home/gct48h6h1p7k/public_html/include/paginator.class.php on line 31
+[03-Feb-2021 00:52:41 UTC] PHP Notice:  Undefined index: ipp in /home/gct48h6h1p7k/public_html/include/paginator.class.php on line 31
+[08-Feb-2021 23:06:17 UTC] PHP Notice:  Undefined index: ipp in /home/gct48h6h1p7k/public_html/include/paginator.class.php on line 31
+[18-Feb-2021 05:03:58 UTC] PHP Notice:  Undefined index: ipp in /home/gct48h6h1p7k/public_html/include/paginator.class.php on line 31
+[23-Feb-2021 00:30:10 UTC] PHP Notice:  Undefined index: ipp in /home/gct48h6h1p7k/public_html/include/paginator.class.php on line 31
+[23-Feb-2021 00:30:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/gct48h6h1p7k/public_html/fixtures/add-fixtures.php:160
+Stack trace:
+#0 /home/gct48h6h1p7k/public_html/fixtures/add-fixtures.php(160): PDO->__construct('mysql:host=loca...', 'root', 'root')
+#1 {main}
+  thrown in /home/gct48h6h1p7k/public_html/fixtures/add-fixtures.php on line 160
+[23-Feb-2021 00:30:16 UTC] PHP Notice:  Undefined index: ipp in /home/gct48h6h1p7k/public_html/include/paginator.class.php on line 31
+[09-Mar-2021 03:41:36 UTC] PHP Notice:  Undefined index: ipp in /home/gct48h6h1p7k/public_html/include/paginator.class.php on line 31
